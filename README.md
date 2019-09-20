@@ -1,0 +1,2 @@
+# InterfaceForLog
+InterfaceForLog
